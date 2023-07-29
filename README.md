@@ -57,3 +57,4 @@ Feel free to modify and expand the project as per your requirements!
 
 The exchange rates used in this example are predefined for simplicity. For a more accurate currency conversion, you should replace them with real-time rates fetched from an API.
 
+
