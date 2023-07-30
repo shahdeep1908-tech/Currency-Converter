@@ -1,3 +1,2 @@
-forex-python
 requests
 
